@@ -1,0 +1,11 @@
+# ============================================
+#  URL's pulled from https://github.com/FlimFlam69/WiiUTutorial/wiki/1:-Blocking-Updates-From-Nintendo
+# ============================================
+0.0.0.0 nus.cdn.c.shop.nintendowifi.net
+0.0.0.0 nus.cdn.shop.wii.com
+0.0.0.0 nus.cdn.wup.shop.nintendo.net
+0.0.0.0 nus.wup.shop.nintendo.net
+0.0.0.0 nus.c.shop.nintendowifi.net
+0.0.0.0 c.shop.nintendowifi.net
+0.0.0.0 cbvc.cdn.nintendo.net
+0.0.0.0 cbvc.nintendo.net
